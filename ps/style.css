@@ -17,7 +17,7 @@ body {
 	align-items: center;
 	width: 100vw;
 	height: 100vh;
-	background: url("bgps.jpg") no-repeat fixed center;
+	background: url("bg.webp") no-repeat fixed center;
 	background-size: cover;
 }
 
@@ -44,7 +44,7 @@ body {
 	border-radius: 10px;
 	padding: 5px 10px;
 	font-size: 30px;
-	background-color: #A12AE0;
+	background-color: #FF0000;
 	outline: none;
 	color: white;
 	text-decoration: none;
