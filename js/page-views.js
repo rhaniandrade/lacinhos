@@ -1,0 +1,1 @@
+!function(e){e((function(){if("undefined"!=typeof _isTest&&!_isTest){var d=0,t=0;"undefined"!=typeof _postID&&(d=_postID),"undefined"!=typeof _redirectID&&(t=_redirectID),e.ajax({url:"/Pages/AddPageViewScript",data:{id:_pageID,src:_leadSource,sck:_leadSCK,post:d,redirectID:t},type:"post",dataType:"json"})}}))}(window.jQuery,window,document);
